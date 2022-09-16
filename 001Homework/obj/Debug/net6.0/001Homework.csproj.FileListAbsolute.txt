@@ -1,0 +1,15 @@
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/bin/Debug/net6.0/001Homework
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/bin/Debug/net6.0/001Homework.deps.json
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/bin/Debug/net6.0/001Homework.runtimeconfig.json
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/bin/Debug/net6.0/001Homework.dll
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/bin/Debug/net6.0/001Homework.pdb
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/001Homework.csproj.AssemblyReference.cache
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/001Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/001Homework.AssemblyInfoInputs.cache
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/001Homework.AssemblyInfo.cs
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/001Homework.csproj.CoreCompileInputs.cache
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/001Homework.dll
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/refint/001Homework.dll
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/001Homework.pdb
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/001Homework.genruntimeconfig.cache
+/Users/ivanzelenskiy/Desktop/Homework_16.09/001Homework/obj/Debug/net6.0/ref/001Homework.dll
